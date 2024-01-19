@@ -4,4 +4,6 @@ A 3D sketch (created in Processing) of the Menger Sponge Fractal. Based on The C
 
 [Menger Sponge on Wikipedia](https://en.wikipedia.org/wiki/Menger_sponge)
 
-![4k video](https://vimeo.com/upheremedia/processing-menger-sponge-fractal?share=copy)
+Here's [a nice 4k video.](https://vimeo.com/upheremedia/processing-menger-sponge-fractal?share=copy)
+
+![Thumbnail](images/MengerSpongeColourfulWireframe800x517.png)
